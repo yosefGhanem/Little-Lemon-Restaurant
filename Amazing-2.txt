@@ -1,0 +1,5 @@
+url
+https://github.com/Shihfeng-Hsu/Little-Lemon-website    
+Test succeeded
+website is responsive
+ui and ux not completed

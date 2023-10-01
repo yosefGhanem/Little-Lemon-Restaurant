@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.130a57cb.css",
+    "main.js": "/static/js/main.b8d856e3.js",
+    "static/media/sushi.jpg": "/static/media/sushi.fb3670b6b17feeacb6b9.jpg",
+    "static/media/salad.jpg": "/static/media/salad.25fc793faeb3d58ed9fb.jpg",
+    "static/media/spaghetti.jpg": "/static/media/spaghetti.068e128bb7099cbae02f.jpg",
+    "static/media/bruchetta.jpg": "/static/media/bruchetta.d54e450bda5efcf06010.jpg",
+    "static/media/littleLemonfooterLogo.png": "/static/media/littleLemonfooterLogo.d09eb2af6c5a2225eedf.png",
+    "static/media/Asset 16@4x.png": "/static/media/Asset 16@4x.d4cae6fac8384c2dae04.png",
+    "index.html": "/index.html",
+    "main.130a57cb.css.map": "/static/css/main.130a57cb.css.map",
+    "main.b8d856e3.js.map": "/static/js/main.b8d856e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.130a57cb.css",
+    "static/js/main.b8d856e3.js"
+  ]
+}

@@ -1,0 +1,41 @@
+/* Footer.css */
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.company-info,
+.footer-links,
+.contact-info,
+.social-media-links {
+  flex: 1;
+  margin: 10px;
+  text-align: center;
+}
+
+.footer-links ul , .contact-info ul ,.social-media-links ul{
+  list-style-type: none;
+  text-decoration: dotted;
+  
+}
+
+.footer-links ul li:hover ,.social-media-links ul li:hover{
+  cursor: pointer;
+  color: yellow;
+}
+
+/* Media queries for responsive design */
+@media screen and (max-width: 768px) {
+  .footer-content {
+      flex-direction: column;
+  }
+
+  .company-info,
+  .footer-links,
+  .contact-info,
+  .social-media-links {
+      width: 100%;
+  }
+}
